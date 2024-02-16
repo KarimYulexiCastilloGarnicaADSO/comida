@@ -89,5 +89,41 @@ hr{
 .erizo{
   position: absolute;
   width: 100px;
-  top: -20px;
+}
+.titulo2{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.subtitulo2{
+  padding: 20px;
+  font-size: 30px;
+  margin-left: 300px;
+  display: flex;
+  justify-content: center;
+}
+.contenido2{
+  padding: 30px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.contenedor_car figure img{
+  margin-left: 250px;
+  width: 300px;
+  padding: 30px;
+}
+.contenedor_car .card_contenido{
+  font-size: 15px;
+  margin-left: 300px;
+  width: 200px;
+}
+.boton_order_2 a{
+  margin-left: 300px;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border: solid black 2px;
+  font-size: 20px;
 }
