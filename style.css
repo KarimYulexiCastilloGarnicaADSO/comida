@@ -87,5 +87,7 @@ hr{
   justify-content: space-around;
 }
 .erizo{
-  
+  position: absolute;
+  width: 100px;
+  top: -20px;
 }
