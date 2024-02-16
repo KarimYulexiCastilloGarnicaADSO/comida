@@ -149,3 +149,13 @@ hr{
   justify-content: space-evenly;
   align-items: center;
 }
+.parte4{
+  margin: 20px;
+  display: flex;
+  justify-content: space-around ;
+  align-items: center;
+}
+.parte4 h1{
+  display: flex;
+  justify-content: center;
+}
